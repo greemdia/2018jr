@@ -27,9 +27,4 @@ public class DatabaseConnectTests {
 		}	
 		
 	}
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
-
 }
